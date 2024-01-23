@@ -1,4 +1,4 @@
-树型操作常用算法（Java实现，基于https://github.com/Scalified/tree）
+树型操作常用算法（ Java实现，基于https://github.com/Scalified/tree 实现）
 
 包含：
 
